@@ -1,0 +1,28 @@
+#testimonial {
+    background:
+      /* top, transparent red, faked with gradient */
+    linear-gradient(
+        rgba(192, 5, 5, 0.845),
+        rgba(93, 3, 3, 0.45)
+    ),
+      /* bottom, image */
+    url(../images/Marshalino.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+    .circle{
+        width: 20px !important;
+        aspect-ratio: 1 !important;
+        height: auto !important;
+        border-radius: 50% !important;
+    }
+
+
+
+
+
+
+
+
+
